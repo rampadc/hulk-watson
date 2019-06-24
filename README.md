@@ -63,7 +63,7 @@ http://127.0.0.1:8000/?msg=I am angry
 
 
 ## Deployment
-
+ 
 To deploy remotely on Cloud Foundry, using IBM Cloud CLI, invoke
 
 ```.env
