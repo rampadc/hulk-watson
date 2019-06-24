@@ -1,0 +1,5 @@
+---
+applications:
+  - name: hulk-watson
+    random-route: true
+

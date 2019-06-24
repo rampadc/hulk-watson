@@ -1,0 +1,8 @@
+---
+applications:
+  - name: hulk-watson
+    random-route: true
+    disk_quota: 128Mi
+    memory: 256Mi
+
+
